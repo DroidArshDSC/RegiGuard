@@ -1,0 +1,10 @@
+ISO 27001 - Key Information Security Controls
+
+Organizations certified under ISO/IEC 27001 are expected to:
+- Maintain an Information Security Management System (ISMS).
+- Conduct periodic risk assessments.
+- Implement access control and encryption for sensitive data.
+- Ensure physical security and incident management procedures.
+- Review policies annually and maintain audit trails.
+
+Non-conformance must be documented and addressed through corrective actions.

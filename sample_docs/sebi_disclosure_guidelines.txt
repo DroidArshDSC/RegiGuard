@@ -1,0 +1,10 @@
+SEBI - Disclosure Obligations for Listed Entities
+
+Under SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015:
+
+- Companies must promptly disclose any material event or information which could impact investors.
+- Price-sensitive information must be shared with stock exchanges within 24 hours.
+- Quarterly financial results must be approved by the board before publication.
+- Non-compliance can attract penalties and suspension of trading.
+
+Objective: ensure transparency, protect investor interests, and maintain market integrity.

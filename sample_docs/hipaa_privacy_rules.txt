@@ -1,0 +1,9 @@
+HIPAA Privacy Rule - Overview
+
+Covered entities (health plans, providers, and clearinghouses) must:
+- Protect patient health information (PHI) from unauthorized disclosure.
+- Provide patients with access to their records within 30 days of request.
+- Limit data sharing to the minimum necessary for intended purpose.
+- Designate a Privacy Officer and maintain written policies.
+
+Violations can result in civil penalties and corrective action plans.

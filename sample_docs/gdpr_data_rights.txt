@@ -1,0 +1,11 @@
+GDPR - Data Subject Rights
+
+Under the GDPR, individuals have several rights regarding their personal data:
+1. Right to access – obtain a copy of their data.
+2. Right to rectification – correct inaccurate data.
+3. Right to erasure – request deletion (“right to be forgotten”).
+4. Right to restriction – limit processing under specific conditions.
+5. Right to data portability – receive data in a structured, machine-readable format.
+6. Right to object – stop processing based on legitimate interests or marketing.
+
+Controllers must respond within one month of receiving a request.
