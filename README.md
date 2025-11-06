@@ -11,3 +11,5 @@ It combines LangGraph-based RAG workflows with FastAPI and RBAC for controlled a
 
 ## 🧠 Built With
 LangGraph • FastAPI • LangChain • ChromaDB • Streamlit • SQLite • JWT Auth
+
+To get started, refer [Get-Started](https://github.com/DroidArshDSC/RegiGuard/blob/main/Get-Started.md)
